@@ -1,0 +1,10 @@
+Data collected by the Open Intelligence Lab, registration required
+
+Time period 2016-05-01 to 2017-04-01:
+
+    reddit
+    - the_donald https://4cat.oilab.nl/results/cec5bc745173e048b6b5c36d06a0fd17/
+    breitbart
+    - all comments (may to may) https://4cat.oilab.nl/results/f9f554bf9423cbb5b6c8573358b2c4f1/
+    4chan/pol/
+    - all posts (may to may) https://4cat.oilab.nl/results/e72601312bb3e2bb14f4cd8d70b02f71/
